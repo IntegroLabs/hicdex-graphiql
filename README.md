@@ -4,6 +4,9 @@ Example usage of [OneGraph](https://www.onegraph.com)'s open source [GraphiQL ex
 
 Sign up at [https://www.onegraph.com](https://www.onegraph.com).
 
+## Pre-Requisites
+- `react-scripts`
+
 ## Setup
 
 Install dependencies:
